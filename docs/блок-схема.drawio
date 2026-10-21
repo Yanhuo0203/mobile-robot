@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="3KhuQytPq-bUZAuydT9V">
+    <mxGraphModel dx="1354" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sDnnerHeYSWTdaAWLmM8-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Случайная генерация заготовок" vertex="1">
+          <mxGeometry height="50" width="150" x="339" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sDnnerHeYSWTdaAWLmM8-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="413" y="120" as="sourcePoint" />
+            <mxPoint x="413" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sDnnerHeYSWTdaAWLmM8-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Транспортировка конвейерной лентой" vertex="1">
+          <mxGeometry height="50" width="150" x="339" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="sDnnerHeYSWTdaAWLmM8-5" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="413.5" y="260" as="sourcePoint" />
+            <mxPoint x="413.5" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sDnnerHeYSWTdaAWLmM8-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Прибыть в позицию распознавания камерой" vertex="1">
+          <mxGeometry height="50" width="150" x="339" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="sDnnerHeYSWTdaAWLmM8-7" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="413.5" y="400" as="sourcePoint" />
+            <mxPoint x="413.5" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sDnnerHeYSWTdaAWLmM8-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Роботизированный манипулятор выполняет корректировки и захват" vertex="1">
+          <mxGeometry height="50" width="150" x="339" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="sDnnerHeYSWTdaAWLmM8-9" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="413.5" y="540" as="sourcePoint" />
+            <mxPoint x="413.5" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sDnnerHeYSWTdaAWLmM8-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Отсортированные заготовки помещаются на специальную конвейерную ленту" vertex="1">
+          <mxGeometry height="60" width="200" x="314" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="sDnnerHeYSWTdaAWLmM8-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Подхвачено роботизированной рукой и помещено в картонную коробку" vertex="1">
+          <mxGeometry height="60" width="200" x="314" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="sDnnerHeYSWTdaAWLmM8-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="413" y="690" as="sourcePoint" />
+            <mxPoint x="413" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
